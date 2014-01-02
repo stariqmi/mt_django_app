@@ -22,7 +22,7 @@ class ReceiveMethod(models.Model):
 
 
 class SendAmount(models.Model):
-    method = models.DecimalField(decimal_places=2)
+    method = models.DecimalField(max_digits=10, decimal_places=2)
 
 
 class FxFee(models.Model):
@@ -31,7 +31,7 @@ class FxFee(models.Model):
     destination_country = models.ForeignKey(DestinationCountry)
     payment_method = models.ForeignKey(PaymentMethod)
     receive_method = models.ForeignKey(ReceiveMethod)
-    fee= models.DecimalField(decimal_places=2)
+    fee= models.DecimalField(max_digits=10, decimal_places=2)
     timestamp = models.DateTimeField()
 
 
@@ -40,5 +40,5 @@ class FxRate(models.Model):
     destination_country = models.ForeignKey(DestinationCountry)
     payment_method = models.ForeignKey(PaymentMethod)
     receive_method = models.ForeignKey(ReceiveMethod)
-    rate = models.DecimalField(decimal_places=2)
+    rate = models.DecimalField(max_digits=10, decimal_places=2)
     timestamp = models.DateTimeField()
