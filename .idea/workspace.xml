@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2e1700e-f78b-4d72-a879-ac048476fb07" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/exhange_rates/__init__.py" afterPath="$PROJECT_DIR$/exchange_rates/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/exhange_rates/admin.py" afterPath="$PROJECT_DIR$/exchange_rates/admin.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/exhange_rates/models.py" afterPath="$PROJECT_DIR$/exchange_rates/models.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/exhange_rates/tests.py" afterPath="$PROJECT_DIR$/exchange_rates/tests.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/exhange_rates/views.py" afterPath="$PROJECT_DIR$/exchange_rates/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mt_django_app/settings.py" afterPath="$PROJECT_DIR$/mt_django_app/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="e2e1700e-f78b-4d72-a879-ac048476fb07" name="Default" comment="" />
     <ignored path="mt_django_app.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,7 +26,7 @@
       <file leaf-file-name="models.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/exchange_rates/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="41" selection-start="1260" selection-end="1260" vertical-scroll-proportion="0.8366606" vertical-offset="169" max-vertical-offset="735">
+            <state line="42" column="41" selection-start="1260" selection-end="1260" vertical-scroll-proportion="1.1433756" vertical-offset="0" max-vertical-offset="735">
               <folding />
             </state>
           </provider>
@@ -160,6 +152,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../odesk/money_transfer_scraper" />
+    <property name="FullScreen" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
@@ -297,14 +290,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="291" y="22" width="1059" height="674" extended-state="0" />
-    <editor active="true" />
+    <frame x="291" y="22" width="1059" height="674" extended-state="1" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22474033" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22474033" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -368,7 +361,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exchange_rates/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="41" selection-start="1260" selection-end="1260" vertical-scroll-proportion="0.8366606" vertical-offset="169" max-vertical-offset="735">
+        <state line="42" column="41" selection-start="1260" selection-end="1260" vertical-scroll-proportion="1.1433756" vertical-offset="0" max-vertical-offset="735">
           <folding />
         </state>
       </provider>
